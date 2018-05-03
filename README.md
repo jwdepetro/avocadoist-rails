@@ -10,4 +10,8 @@ Running
 
 Stopping
 
+`docker-compose stop`
+
+Stopping and removing
+
 `docker-compose down`
