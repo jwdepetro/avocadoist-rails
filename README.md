@@ -1,24 +1,13 @@
-# README
+# Avocadoist
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Building
 
-Things you may want to cover:
+`docker-compose build`
 
-* Ruby version
+Running
 
-* System dependencies
+`docker-compose up -d`
 
-* Configuration
+Stopping
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`docker-compose down`
